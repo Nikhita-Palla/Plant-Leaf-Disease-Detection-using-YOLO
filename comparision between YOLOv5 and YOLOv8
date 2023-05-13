@@ -6,3 +6,6 @@ considered one of the best model and the other is the recent version, YOLOv8 whi
 on the same dataset, and found that for the dataset used the YOLOv5 model was found to be the better model with a mAP  of 0.641, while the YOLOv8 model has mAP of 0.516. 
 By contrasting the YOLOv5 model with the most recent YOLOv8 model, which was presented in 2022, this study suggests that the YOLOv5 model is suitable for tasks involving the 
 diagnosis of plant diseases. By utilising transfer learning capabilities, the YOLO model can be improved to broaden its application domain in the future.
+
+
+
